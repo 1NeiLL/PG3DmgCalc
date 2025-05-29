@@ -8,3 +8,43 @@ C:\Users\neiln\source\repos\DamageCalculatorGUI\DamageCalculatorGUI\obj\Debug\Da
 C:\Users\neiln\source\repos\DamageCalculatorGUI\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.CoreCompileInputs.cache
 C:\Users\neiln\source\repos\DamageCalculatorGUI\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.exe
 C:\Users\neiln\source\repos\DamageCalculatorGUI\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.pdb
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.Properties.Resources.resources
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.GenerateResource.cache
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.exe
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.pdb
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.exe.config
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.exe
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.pdb
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\obj\Debug\Form1.resources
+C:\Users\neiln\OneDrive\Desktop\PG3DmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\obj\Debug\Form1.resources
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.Properties.Resources.resources
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.GenerateResource.cache
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.exe
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.pdb
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.exe.config
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.exe
+C:\Users\neiln\OneDrive\Desktop\PGDmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.pdb
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.exe.config
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.exe
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.pdb
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\obj\Debug\Form1.resources
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.Properties.Resources.resources
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.GenerateResource.cache
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.exe
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.pdb
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.exe.config
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.exe
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\bin\Debug\DamageCalculatorGUI.pdb
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\obj\Debug\Form1.resources
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.Properties.Resources.resources
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.GenerateResource.cache
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.exe
+C:\Users\neiln\OneDrive\Desktop\Project\PGDmgCalc Fade cpy\DamageCalculatorGUI\obj\Debug\DamageCalculatorGUI.pdb

@@ -118,52 +118,100 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Crown" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Crown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="turtle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\turtle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Altar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Altar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Cape" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Cape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="RR" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Weak" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Weak.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rguard" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rguard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Halloweenmask2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Halloweenmask2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tiara" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Tiara.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="drum" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drum.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DW" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Pet1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pet1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Cape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="armor5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\armor5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="turtle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\turtle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wani" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wani.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Blue1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Blue1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Charm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Charm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cloyal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cloyal1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cboss" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cboss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="armor4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\armor4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="X2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\X2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Halloweenmask2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Halloweenmask2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weak" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weak.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="X" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\X.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Crown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Crown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Frog" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Frog.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Charm" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Charm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="X5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\X5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cloyal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cloyal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="X1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\X1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rguard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rguard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="armor2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\armor2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="armor3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\armor3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pet1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pet1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="X3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\X3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="X4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\X4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Altar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Altar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tiara" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tiara.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mateboost" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mateboost.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

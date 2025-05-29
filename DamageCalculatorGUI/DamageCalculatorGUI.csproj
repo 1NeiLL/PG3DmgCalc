@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>DMGICON2.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -112,6 +115,23 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DamageCalculatorGUI.exe" />
+    <Content Include="DMGICON2.ico" />
+    <None Include="Resources\mateboost.png" />
+    <None Include="Resources\X5.png" />
+    <None Include="Resources\X4.png" />
+    <None Include="Resources\X3.png" />
+    <None Include="Resources\X2.png" />
+    <None Include="Resources\X1.png" />
+    <None Include="Resources\X.png" />
+    <None Include="Resources\armor5.png" />
+    <None Include="Resources\armor4.png" />
+    <None Include="Resources\armor3.png" />
+    <None Include="Resources\armor2.png" />
+    <None Include="Resources\Armor1.png" />
+    <None Include="Resources\Cboss.png" />
+    <None Include="Resources\Cloyal1.png" />
+    <None Include="Resources\Cloyal.png" />
+    <None Include="Resources\Wani.png" />
     <None Include="Resources\Charm.png" />
     <None Include="Resources\Weak.png" />
     <None Include="Resources\DW.png" />
